@@ -13,7 +13,7 @@
 def main():
     # Print small initials line with three periods on each side
     print()
-    print("..ELT")
+    print("...ELT")
     print()
 
     # Blank line between small and large initials
